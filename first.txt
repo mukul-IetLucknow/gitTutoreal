@@ -1,0 +1,7 @@
+ version 1 of my project
+i want this commit 2 ...
+
+version updated 2
+version updated 3 hjygjh 
+
+this is now skipping staging 
